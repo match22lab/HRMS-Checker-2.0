@@ -9,3 +9,6 @@ The script does the following:
 5) print a one-line analysis of each measurement highlighting unusual deviations
 6) in cases of internal inconsistencies, provide a plausible ex-planation or, if possible, a solution to the problem
 7) create a summary for all files investigated
+
+If you don't feel like using a Python interpreter, a hosted version of this script can be found at
+https://huggingface.co/spaces/Matchball/accurate_mass
